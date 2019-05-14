@@ -6,4 +6,4 @@ public class Hello {
     }
 }
 
-public class
+public class test
